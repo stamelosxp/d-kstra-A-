@@ -10,9 +10,10 @@ This repository contains an implementation of the Dijkstra-SP algorithm and the 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms Implemented](#algorithms-implemented)
-- [Heuristic Function for A*][#heuristic-function-for-a]
-- [Test Cases][#test-cases]
-- [Requirements][#requirements]
+- [Heuristic Function for A*](#heuristic-function-for-a)
+- [Test Cases](#test-cases)
+- [Requirements](#requirements) 
+  
 ### Introduction 
 
 Dijkstra's Algorithm is a classic algorithm used in graph theory to determine the shortest path between nodes in a weighted graph. This repository offers a Python implementation that can be easily integrated into other projects or used for educational purposes.
@@ -41,7 +42,6 @@ Run the compiled `main` executable:
 ```sh
 ./main
 ```
-
 
 ### Algorithms Implemented
 
