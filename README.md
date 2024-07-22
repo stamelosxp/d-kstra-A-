@@ -10,7 +10,7 @@ This repository contains an implementation of the Dijkstra-SP algorithm and the 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms Implemented](#algorithms-implemented)
-- [Heuristic Function for A*][#heuristic-function-for-a*]
+- [Heuristic Function for A*][#heuristic-function-for-a]
 - [Test Cases][#test-cases]
 - [Requirements][#requirements]
 ### Introduction 
